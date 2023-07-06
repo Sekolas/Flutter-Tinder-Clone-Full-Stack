@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "209507993613",
+    "project_id": "syncspace-f5976",
+    "storage_bucket": "syncspace-f5976.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:209507993613:android:5fa8e23915fda970596d44",
+        "android_client_info": {
+          "package_name": "com.example.tinder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "209507993613-ko4k7fde9c6cakbe6n1h8ngaosf89jji.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPzFOXKkRQxtp_Dll8J7Q7b1nLL568TrM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "209507993613-ko4k7fde9c6cakbe6n1h8ngaosf89jji.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
